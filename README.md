@@ -1,15 +1,43 @@
-### Hi there 👋
+### Olá, Seja bem vindo ao meu mundo 🖖👽
 
-<!--
-**Viniciussouza04/Viniciussouza04** is a ✨ _special_ ✨ repository because its `README.md` (this 
-Here are some ideas to get you started:
+ ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Eu hoje trabalho com Front-end 
+- 🌱 Estudando nodeJS
+- 📫 Contate-me no E-mail: vs847540@gmail.com
+- 😄 Pronouns: Ele/Dele
+
+
+ <div>
+  <a href="https://github.com/Viniciussouza04">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciussouza04&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciussouza04&layout=compact&langs_count=7&theme=merko"/>
+</div>
+  
+  
+  
+ ##
+  
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="vini-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="vini-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+   
+  <img align="right" alt="vini-developer_man" height="160" width="300" src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47jce11lfotfpk754m4tuacr380uz8o1fr57x68m0y&rid=giphy.gif&ct=g">
+  
+</div>
+  
+##
+
+### Contato: 
+<div> 
+    <a href="https://www.instagram.com/vinie.souza/" target="blank"><img align="center" alt="vini-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/souza-dev/" target="blank"><img align="center" alt="vini-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.facebook.com/vinicius.oliver.359" target="blank"><img align="center" alt="vini-face" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>  
+</div>
+
