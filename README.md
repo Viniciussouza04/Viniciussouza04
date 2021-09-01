@@ -31,8 +31,6 @@
   <img align="right" alt="vini-developer_man" height="160" width="300" src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47jce11lfotfpk754m4tuacr380uz8o1fr57x68m0y&rid=giphy.gif&ct=g">
   
   
-  ![Snake animation](https://github.com/Viniciussouza04/Viniciussouza04/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
   
 ##
