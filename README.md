@@ -5,7 +5,7 @@
 
 - 🔭 Eu hoje trabalho com Front-end 
 - 🌱 Estudando nodeJS
-- 📫 Contate-me no E-mail: vs847540@gmail.com
+- 📫 Emai
 - 😄 Pronouns: Ele/Dele
 
 
@@ -42,6 +42,7 @@
 <div> 
     <a href="https://www.instagram.com/vinie.souza/" target="blank"><img align="center" alt="vini-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/souza-dev/" target="blank"><img align="center" alt="vini-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.facebook.com/vinicius.oliver.359" target="blank"><img align="center" alt="vini-face" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>  
+    <a href="https://www.facebook.com/vinicius.oliver.359" target="blank"><img align="center" alt="vini-face" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" alt="vini-face" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
 
