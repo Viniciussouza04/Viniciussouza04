@@ -5,7 +5,7 @@
 
 - 🔭 Eu hoje trabalho com Front-end 
 - 🌱 Estudando nodeJS
-- 📫 Emai
+- 📫 Email: vs847540@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 
