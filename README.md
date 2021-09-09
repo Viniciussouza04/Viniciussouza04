@@ -29,7 +29,8 @@
   <img align="center" alt="vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vini-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="vini-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="vini-typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  
    
   <img align="right" alt="vini-developer_man" height="160" width="300" src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47jce11lfotfpk754m4tuacr380uz8o1fr57x68m0y&rid=giphy.gif&ct=g">
   
